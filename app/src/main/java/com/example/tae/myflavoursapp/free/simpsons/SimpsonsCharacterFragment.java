@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.example.tae.myflavoursapp.BuildConfig;
+
 import com.example.tae.myflavoursapp.MainActivity;
 import com.example.tae.myflavoursapp.R;
 import com.example.tae.myflavoursapp.data.network.AppDataManager;
